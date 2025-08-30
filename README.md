@@ -7,7 +7,7 @@ Whether you're planning a trip, managing business, or just curious, this app has
 
 <!-- Project Link -->
 
-🚀 **Try it now:** [Convert your currency instantly!]( )
+🚀 **Try it now:** [Convert your currency instantly!](`https://online-currency-convertor.vercel.app/`)
 
 <!-- Project Image -->
 
@@ -24,13 +24,13 @@ A simple and customizable Online Currency Convertor built with **React** and **V
 
 - 🌍 **Global Support:** Convert between 150+ world currencies
 
-⚡ **Real-Time Rates:** Always up-to-date with the latest exchange rates
+- ⚡ **Real-Time Rates:** Always up-to-date with the latest exchange rates
 
-🔄 **Easy Conversion:** Swap currencies instantly
+- 🔄 **Easy Conversion:** Swap currencies instantly
 
-📱 **Responsive:** Works smoothly on mobile, tablet, and desktop
+- 📱 **Responsive:** Works smoothly on mobile, tablet, and desktop
 
-📋 **Convenient:** Copy results to clipboard with one click
+- 📋 **Convenient:** Copy results to clipboard with one click
 
 ## 🚀 Getting Started
 
