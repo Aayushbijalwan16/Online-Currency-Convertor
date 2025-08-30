@@ -7,7 +7,7 @@ Whether you're planning a trip, managing business, or just curious, this app has
 
 <!-- Project Link -->
 
-🚀 **Try it now:** [Convert your currency instantly!](`https://online-currency-convertor.vercel.app/`)
+🚀 **Try it now:** [Convert your currency instantly!](https://online-currency-convertor.vercel.app/)
 
 <!-- Project Image -->
 
